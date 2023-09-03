@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
 internships:项目概览
 _
 -做的前后端分离的vue文件:https://github.com/12345maran/m-r-r#m-r-r
--宿舍管理系统:
+-宿舍管理系统:https://github.com/12345maran/sushe
 -物流信息管理:
--记事本:
+-记事本:https://github.com/12345maran/sushe/jishiben
 
 about me:关于我
 -
